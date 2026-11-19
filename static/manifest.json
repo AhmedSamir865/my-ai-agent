@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "وكيل التطوير المحلي",
+  "short_name": "وكيل التطوير",
+  "description": "مساعد تطوير محلي بتجربة هاتف قابلة للتثبيت",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "icons": [
+    {"src": "/static/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/static/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
